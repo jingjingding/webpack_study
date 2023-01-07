@@ -20,7 +20,7 @@
     "chalk": "^2.4.2",
     "css-loader": "^0.28.11",
     "friendly-errors-webpack-plugin": "^1.7.0",
-    "html-webpack-plugin": "^3.2.0",
+    "html-webpack-plugin": "^5.5.0",
     "ora": "^3.4.0",
     "rimraf": "^2.6.3",
     "sass-loader": "^6.0.7",
